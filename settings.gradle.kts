@@ -1,14 +1,8 @@
 rootProject.name = "public"
 
-include(":AutoPrayFlick")
 include(":CustomSwapper")
-include(":ItemDropper")
-include(":LeftClickCast")
-include(":NeverLog")
-include(":NyloSwapper")
-include(":OlmSwapper")
-include(":OneClick")
 include(":ExtUtils")
+include(":modelviewer")
 
 for (project in rootProject.children) {
     project.apply {
