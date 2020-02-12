@@ -5,7 +5,7 @@ forked from Ganom/ExternalPlugins/
 ## ModelViewer
 ![static traingles highlighted](https://media.discordapp.net/attachments/556189475898916865/674328789978972176/unknown.png)
 
-Draws specific triangles for any object in Oldschool Runescape. Pictured about it draws the logs in red.
+Draws specific triangles for any object in Oldschool Runescape. Example above highlights the logs in a fire.
 Useful for filtering out unwanted triangles such as dynamic ones.
 
 build with -x checkstyleMain
